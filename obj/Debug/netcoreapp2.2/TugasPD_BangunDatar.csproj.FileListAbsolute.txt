@@ -1,0 +1,11 @@
+D:\TugasPD_BangunDatar\bin\Debug\netcoreapp2.2\TugasPD_BangunDatar.deps.json
+D:\TugasPD_BangunDatar\bin\Debug\netcoreapp2.2\TugasPD_BangunDatar.runtimeconfig.json
+D:\TugasPD_BangunDatar\bin\Debug\netcoreapp2.2\TugasPD_BangunDatar.runtimeconfig.dev.json
+D:\TugasPD_BangunDatar\bin\Debug\netcoreapp2.2\TugasPD_BangunDatar.dll
+D:\TugasPD_BangunDatar\bin\Debug\netcoreapp2.2\TugasPD_BangunDatar.pdb
+D:\TugasPD_BangunDatar\obj\Debug\netcoreapp2.2\TugasPD_BangunDatar.csprojAssemblyReference.cache
+D:\TugasPD_BangunDatar\obj\Debug\netcoreapp2.2\TugasPD_BangunDatar.csproj.CoreCompileInputs.cache
+D:\TugasPD_BangunDatar\obj\Debug\netcoreapp2.2\TugasPD_BangunDatar.AssemblyInfoInputs.cache
+D:\TugasPD_BangunDatar\obj\Debug\netcoreapp2.2\TugasPD_BangunDatar.AssemblyInfo.cs
+D:\TugasPD_BangunDatar\obj\Debug\netcoreapp2.2\TugasPD_BangunDatar.dll
+D:\TugasPD_BangunDatar\obj\Debug\netcoreapp2.2\TugasPD_BangunDatar.pdb
